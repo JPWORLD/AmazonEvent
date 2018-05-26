@@ -50,6 +50,67 @@ audio > beamforming single > audio stream > speech to text > intent : get the fu
 	github.com/alexa
 	
 	voice design
+	alexa.design/codegenerator
 	
 	
+alexa ask sleep sound : it will produce the sound 
+
+
+Crawl :
+
+
+Home sweet home
+
+Alexa, what day it is ?
+
+Its Sunday evening 7 O clock.
+
+ahha Alexa, tell a fairy tell.
+
+lights getting dim... AC temperature is getting lower ... and the tv gets on then alexa started narrating the story.
+
+after the story finished. Alexa ask for do you want to listen more ?
+
+if response it there, its starts with more options 
+
+if its there is no response, it dims the light switch off the tv.
+ 
+in sleep mode
+
+
+
+
+Memory place
+
+remember my {item} is in the {location}
+
+session attributes : current score : databse persistance 
+
+const sessionAttributes =
+handlertInput.attrubutesManager.getsessionAttributes();
+
+key value pair for the data object : we pass through : to the database : 
+AWS Dynamo DB 
+
+	no-sql database 
+	tables with rows
+	ask-sdk automatically create the database for you
 	
+	
+
+database reload upon skill start
+
+primary key: userid
+a copy of session.attributes
+
+labs 
+
+everything pass through the lambda 
+
+labs calling service
+
+alexa.design/labs-local
+alexa.design/labs-
+alexa.design/labs-
+
+alexa.design/highlow
