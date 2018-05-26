@@ -53,6 +53,7 @@ audio > beamforming single > audio stream > speech to text > intent : get the fu
 	alexa.design/codegenerator
 	
 	
+<<<<<<< HEAD
 alexa ask sleep sound : it will produce the sound 
 
 
@@ -114,3 +115,6 @@ alexa.design/labs-
 alexa.design/labs-
 
 alexa.design/highlow
+=======
+	arn:aws:lambda:us-west-2:302638934475:function:aws-serverless-repository-alexaskillskitnodejsfact-119OPKSJI67X4
+>>>>>>> 07de4a6a7209aff70da97916de45aa3b3e6573d5
