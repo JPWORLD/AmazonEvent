@@ -1,0 +1,33 @@
+UTTERANCE 
+multiple way of asking the same question
+intent
+actual meaning with the multiple options
+slots 
+the range could be a integer value or the string included in a sentence 
+e.g recommend an attacrtion within four miles 
+utterance : recommend : slots : attraction with the range : slots : 4 miles 
+
+ssml : speech synthesis markup language 
+e.g 
+
+.pauses
+well, okay
+well<break time = time range > 
+
+.pronunciation hints
+<say-as interpert-as = "interjection">
+ya ya
+</say-as>
+
+
+
+audio > beamforming single > audio stream > speech to text > intent : get the function : provide the information 
+	all things happen over the cloud > with the hardware level to the internet
+	
+	
+	
+	flash brifing API : use to showcase the news : any upated : on the screen : or via the voice 
+	
+	
+	custom intent 
+	: GetNewFactIntent
