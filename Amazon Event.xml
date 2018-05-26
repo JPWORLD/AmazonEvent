@@ -31,3 +31,25 @@ audio > beamforming single > audio stream > speech to text > intent : get the fu
 	
 	custom intent 
 	: GetNewFactIntent
+	
+	
+	arn : arn:aws:lambda:us-west-2:302638934475:function:aws-serverless-repository-alexaskillskitnodejsfact-1NB88GGSQP4QF
+	
+	
+	index.js
+	
+	package.json
+	
+	ask an architect
+	
+	alexa.design/india
+	alexa.design/tutorials
+	training
+	codecademy
+	guide
+	github.com/alexa
+	
+	voice design
+	
+	
+	
